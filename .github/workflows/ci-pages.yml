@@ -9,6 +9,8 @@ jobs:
   validate:
     runs-on: ubuntu-latest
 
+
+
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
@@ -19,3 +21,4 @@ jobs:
             echo "ERRO: index.html não encontrado!"
             exit 1
           fi
+
