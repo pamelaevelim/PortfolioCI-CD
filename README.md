@@ -1,0 +1,1 @@
+[![CI - Validação do Portfólio](https://github.com/pamelaevelim/PortfolioCI-CD/actions/workflows/ci-pages.yml/badge.svg)](https://github.com/pamelaevelim/PortfolioCI-CD/actions/workflows/ci-pages.yml)
